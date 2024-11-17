@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveData MVVM</string>
+    <string name="weather_image">Clima actual</string>
+</resources>
